@@ -1,0 +1,5 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Myntra-2,,,,2023-12-24 11:58:43,2023-12-24 11:58:43,0.396s,PASSED
+,,,,,,,
+Test Cases/Myntra-1,,,,2023-12-24 11:58:43,2023-12-24 11:58:43,0.239s,PASSED
+return null,,,,2023-12-24 11:58:43,2023-12-24 11:58:43,0.002s,PASSED

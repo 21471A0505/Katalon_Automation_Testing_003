@@ -1,0 +1,10 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+New Test Suite-15,Chrome 120.0.0.0,,,2024-01-16 12:27:53,2024-01-16 12:30:27,2m - 34.129s,FAILED
+,,,,,,,
+Test Cases/Flipkart/New Test Case-15,Chrome 120.0.0.0,,,2024-01-16 12:27:53,2024-01-16 12:27:53,0.335s,PASSED
+return null,Chrome 120.0.0.0,,,2024-01-16 12:27:53,2024-01-16 12:27:53,0.003s,PASSED
+,,,,,,,
+Test Cases/Amazon,Chrome 120.0.0.0,,,2024-01-16 12:29:49,2024-01-16 12:30:27,37.803s,FAILED
+"openBrowser("""")",Chrome 120.0.0.0,,,2024-01-16 12:29:49,2024-01-16 12:29:50,0.761s,PASSED
+"navigateToUrl(""https://www.justbake.in/"")",Chrome 120.0.0.0,,,2024-01-16 12:29:50,2024-01-16 12:29:52,2.438s,PASSED
+"setText(findTestObject(""Justbake_manual/Page_Justbake.com is for sale  Bodis.com - Smart Domain Monetization/input_number""), """")",Chrome 120.0.0.0,,,2024-01-16 12:29:52,2024-01-16 12:30:27,34.591s,FAILED

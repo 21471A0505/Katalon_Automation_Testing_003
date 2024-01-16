@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_</name>
+   <tag></tag>
+   <elementGuidId>94083164-4d41-45a2-9caf-c13f1f32f838</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button._2KpZ6l._2doB4z</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div/div/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>03d39663-4e66-45bb-91bb-f9c0621ccfb2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>_2KpZ6l _2doB4z</value>
+      <webElementGuid>ca149dff-6732-45e5-a949-7a6c826621b7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>✕</value>
+      <webElementGuid>411b61a5-da85-46bd-a2a2-66144bec1431</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;fonts-loaded&quot;]/body[@class=&quot;fk-modal-visible&quot;]/div[@class=&quot;_2Sn47c&quot;]/div[@class=&quot;_2hriZF _2rbIyg&quot;]/div[@class=&quot;_2QfC02&quot;]/button[@class=&quot;_2KpZ6l _2doB4z&quot;]</value>
+      <webElementGuid>ce0cf361-83e4-4ad2-ae34-65ed72385bd5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/button</value>
+      <webElementGuid>f2bb9949-569d-432c-9016-0783ab232d4e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = '✕' or . = '✕')]</value>
+      <webElementGuid>2ed07f70-65b4-412a-924e-e843734f00c2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

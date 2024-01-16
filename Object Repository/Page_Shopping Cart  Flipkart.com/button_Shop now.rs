@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Shop now</name>
+   <tag></tag>
+   <elementGuidId>74f93b2f-88b7-4955-83f7-d4cb602252fa</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button._2KpZ6l._1sbqEe._3dESVI</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='container']/div/div[2]/div/div/div/div/div[2]/div/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>c00a633d-f4eb-4273-a65f-237fafb1daf0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>_2KpZ6l _1sbqEe _3dESVI</value>
+      <webElementGuid>306649e6-eb2f-4217-baf3-430aebb905eb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Shop now</value>
+      <webElementGuid>70341000-4401-44af-9b7b-4f0e4b976ce1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;container&quot;)/div[1]/div[@class=&quot;_1Er18h&quot;]/div[@class=&quot;_6t1WkM _3HqJxg&quot;]/div[@class=&quot;_1YokD2 _2GoDe3 col-12-12&quot;]/div[@class=&quot;_1YokD2 _3Mn1Gg&quot;]/div[@class=&quot;_1YokD2 _3Mn1Gg col-12-12&quot;]/div[@class=&quot;_1AtVbE col-12-12&quot;]/div[@class=&quot;Vy94J0&quot;]/button[@class=&quot;_2KpZ6l _1sbqEe _3dESVI&quot;]</value>
+      <webElementGuid>2cbe0a52-0b40-460f-89ba-064f32b3075a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='container']/div/div[2]/div/div/div/div/div[2]/div/button</value>
+      <webElementGuid>23409a37-6221-4d68-8c5e-9a185a038698</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/button</value>
+      <webElementGuid>c71377ef-724c-44a7-aef3-04a47c421db4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Shop now' or . = 'Shop now')]</value>
+      <webElementGuid>48934c63-065e-4e90-b6af-2a03f33858cc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

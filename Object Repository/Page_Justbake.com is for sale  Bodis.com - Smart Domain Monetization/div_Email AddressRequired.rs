@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Email AddressRequired</name>
+   <tag></tag>
+   <elementGuidId>0fd61231-d959-41b3-bc87-665f9ae9af7a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div/div[2]/form/div/div[2]/div/div/div/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>ebcebd3f-07d2-4f6f-a08e-a0b183a1b429</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>v-input mb-2 v-text-field v-input--has-state theme--light error--text</value>
+      <webElementGuid>d76c51d1-e11d-409c-9258-1d6386765804</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Email AddressRequired.</value>
+      <webElementGuid>afadb73e-eac4-4534-a32a-72a9d8a00f1f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;application--wrap&quot;]/div[@class=&quot;layout row wrap&quot;]/div[@class=&quot;flex inquiry-form xs12 md6&quot;]/form[@class=&quot;v-form&quot;]/div[@class=&quot;offer-box form-card v-card v-sheet theme--light elevation-4&quot;]/div[2]/div[@class=&quot;v-card__text&quot;]/div[1]/div[@class=&quot;v-card__text pt-0&quot;]/div[@class=&quot;v-input mb-2 v-text-field v-input--has-state theme--light error--text&quot;]</value>
+      <webElementGuid>344cf528-a5af-438e-92a5-2931a283f604</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div/div[2]/form/div/div[2]/div/div/div/div[2]</value>
+      <webElementGuid>c42c21b1-d639-443a-ad37-b69c23f367e5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div[2]</value>
+      <webElementGuid>272673c4-3f9d-4074-a61a-e1e4873cf383</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Email AddressRequired.' or . = 'Email AddressRequired.')]</value>
+      <webElementGuid>6395a825-cfff-4844-9735-0c30882f1a6d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

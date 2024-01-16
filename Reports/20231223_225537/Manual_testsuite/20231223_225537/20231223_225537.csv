@@ -1,0 +1,5 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Manual_testsuite,,,,2023-12-23 22:55:44,2023-12-23 22:55:45,0.902s,FAILED
+,,,,,,,
+Test Cases/New Test Case-3,,,,2023-12-23 22:55:44,2023-12-23 22:55:45,0.705s,FAILED
+acceptAlert(),,,,2023-12-23 22:55:44,2023-12-23 22:55:45,0.390s,FAILED

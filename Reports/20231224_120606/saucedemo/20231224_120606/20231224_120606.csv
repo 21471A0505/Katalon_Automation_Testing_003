@@ -1,0 +1,5 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+saucedemo,,,,2023-12-24 12:06:12,2023-12-24 12:06:12,0.375s,PASSED
+,,,,,,,
+Test Cases/saucedemo,,,,2023-12-24 12:06:12,2023-12-24 12:06:12,0.223s,PASSED
+return null,,,,2023-12-24 12:06:12,2023-12-24 12:06:12,0.003s,PASSED

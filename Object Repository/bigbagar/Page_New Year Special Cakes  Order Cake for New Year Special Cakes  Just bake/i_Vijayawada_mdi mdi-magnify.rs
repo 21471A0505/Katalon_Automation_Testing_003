@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Vijayawada_mdi mdi-magnify</name>
+   <tag></tag>
+   <elementGuidId>e1144bdb-6b2a-4cee-8640-6b1ce8a395eb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[2]/a/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>550e8ff3-2018-44ad-beb7-6f94b84ab322</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value> mdi mdi-magnify</value>
+      <webElementGuid>098958c5-ff5c-4101-85ed-325dd037056d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>c9626107-b3d6-414c-9333-0432da85887a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;no-js&quot;]/body[1]/header[@class=&quot;header-area clearfix&quot;]/div[@class=&quot;header-bottom sticky-bar header-res-padding header-padding-2&quot;]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;row d-flex justify-content-center align-items-center&quot;]/div[@class=&quot;col-xl-1 col-lg-1 col-md-6 col-8&quot;]/div[@class=&quot;header-right-wrap d-flex justify-content-around mt-0&quot;]/div[@class=&quot;same-style header-search px-1 py-0 align-self-baseline m-0&quot;]/a[@class=&quot;search-active&quot;]/i[@class=&quot;mdi mdi-magnify&quot;]</value>
+      <webElementGuid>294e480c-135f-4430-8d72-ec14d12467f0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/a/i</value>
+      <webElementGuid>3e2d7820-710a-42d6-8c6f-fa03172434ee</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

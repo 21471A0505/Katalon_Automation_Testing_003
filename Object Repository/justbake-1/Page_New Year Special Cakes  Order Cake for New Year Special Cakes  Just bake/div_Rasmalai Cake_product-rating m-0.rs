@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Rasmalai Cake_product-rating m-0</name>
+   <tag></tag>
+   <elementGuidId>90d6a4ef-2208-462b-9d7c-620f0a1fb8bb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='shop-1']/div/div[2]/div/a/div[2]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>e7a3f86b-b26c-4ffa-bbb7-fc34b68e4e18</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>product-rating m-0</value>
+      <webElementGuid>2e06fc8a-5220-49d5-9754-e76b71a75863</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;shop-1&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;col-6 col-lg-3 px-1&quot;]/div[@class=&quot;product-wrap mb-15 scroll-zoom card product-div border-0 rounded-0&quot;]/a[@class=&quot;card-body py-1 px-1&quot;]/div[@class=&quot;product-content text-center text-md-left  pt-2 pl-md-2&quot;]/div[@class=&quot;product-rating m-0&quot;]</value>
+      <webElementGuid>97998434-5246-43c3-9a64-1205379f2de9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='shop-1']/div/div[2]/div/a/div[2]/div</value>
+      <webElementGuid>33c133d8-81b6-4b42-8798-a8e015907111</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/a/div[2]/div</value>
+      <webElementGuid>10b3731a-1172-4713-92da-a8abd158a1eb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

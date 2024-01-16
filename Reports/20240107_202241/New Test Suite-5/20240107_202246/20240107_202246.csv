@@ -1,0 +1,8 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+New Test Suite-5,,,,07-01-2024 20:22:55,07-01-2024 20:22:56,0.627s,PASSED
+,,,,,,,
+Test Cases/CURA_HEALTH/New Test Case-5,,,,07-01-2024 20:22:56,07-01-2024 20:22:56,0.316s,PASSED
+return null,,,,07-01-2024 20:22:56,07-01-2024 20:22:56,0.001s,PASSED
+,,,,,,,
+Test Cases/CURA_HEALTH/New Test Case-5,,,,07-01-2024 20:22:56,07-01-2024 20:22:56,0.026s,PASSED
+return null,,,,07-01-2024 20:22:56,07-01-2024 20:22:56,0.001s,PASSED

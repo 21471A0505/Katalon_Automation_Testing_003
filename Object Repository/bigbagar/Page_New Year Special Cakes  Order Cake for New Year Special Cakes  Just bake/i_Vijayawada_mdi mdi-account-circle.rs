@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Vijayawada_mdi mdi-account-circle</name>
+   <tag></tag>
+   <elementGuidId>0c86a732-8cab-4eba-bce2-b75829f34f7d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.mdi.mdi-account-circle</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[4]/a/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>8b8ac6f1-f34f-4b30-81b8-44f5aa4334c3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mdi mdi-account-circle</value>
+      <webElementGuid>e36ee0a1-d02b-469c-90e0-8f7797b4e8bd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>2c8b5b59-2118-4533-8747-c844e810054e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;no-js&quot;]/body[1]/header[@class=&quot;header-area clearfix&quot;]/div[@class=&quot;header-bottom sticky-bar header-res-padding header-padding-2&quot;]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;row d-flex justify-content-center align-items-center&quot;]/div[@class=&quot;col-xl-1 col-lg-1 col-md-6 col-8&quot;]/div[@class=&quot;header-right-wrap d-flex justify-content-around mt-0&quot;]/div[@class=&quot;same-style account-satting px-1 py-0 align-self-baseline&quot;]/a[@class=&quot;account-satting-active&quot;]/i[@class=&quot;mdi mdi-account-circle&quot;]</value>
+      <webElementGuid>4d600722-fd42-44b6-9e65-3aadb9f21aab</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/a/i</value>
+      <webElementGuid>1c24ac69-bc54-4ab9-97c6-d75405a1b07c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

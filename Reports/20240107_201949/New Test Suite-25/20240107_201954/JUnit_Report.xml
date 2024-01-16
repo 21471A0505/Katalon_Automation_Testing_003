@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="New Test Suite-25" time="0.324" tests="1" failures="0" errors="0">
+   <testsuite name="New Test Suite-25" tests="1" failures="0" errors="0" time="0.324" skipped="0" timestamp="07-01-2024T20:20:11" hostname="balun - LAPTOP-2POF4N3B" id="Test Suites/New Test Suite-25">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\balun\\Katalon Studio\\My First Project-1\\Reports\\20240107_201949\\New Test Suite-25\\20240107_201954"/>
+         <property name="logFiles" value="C:\\Users\\balun\\Katalon Studio\\My First Project-1\\Reports\\20240107_201949\\New Test Suite-25\\20240107_201954\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="balun - LAPTOP-2POF4N3B"/>
+         <property name="hostAddress" value="192.168.22.25"/>
+         <property name="os" value="Windows 11 64bit"/>
+         <property name="katalonVersion" value="9.2.0.212"/>
+      </properties>
+      <testcase name="Test Cases/Flipkart/New Test Case-25" time="0.17" classname="Test Cases/Flipkart/New Test Case-25" status="PASSED">
+         <system-out><![CDATA[07-01-2024T20:20:11 - [TEST_CASE][PASSED] - Test Cases/Flipkart/New Test Case-25: Test Cases/Flipkart/New Test Case-25
+
+07-01-2024T20:20:11 - [TEST_STEP][PASSED] - return null: null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[07-01-2024T20:20:11 - [TEST_SUITE][PASSED] - New Test Suite-25: Test Cases/Flipkart/New Test Case-25]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Music Library_nav-flyout-buffer-top</name>
+   <tag></tag>
+   <elementGuidId>96a585b6-2a9d-46d4-a708-b0cbdb08f945</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='nav-flyout-accountList']/div[5]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#nav-flyout-accountList > div.nav-flyout-buffer-top</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>051ac6b8-2da7-4458-90f9-d1434e64d504</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>nav-flyout-buffer-top</value>
+      <webElementGuid>ad77bbef-b82e-4518-a3b1-9ddd221b2b37</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;nav-flyout-accountList&quot;)/div[@class=&quot;nav-flyout-buffer-top&quot;]</value>
+      <webElementGuid>0a49e602-4f36-4795-97af-5e0204d6e66b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='nav-flyout-accountList']/div[5]</value>
+      <webElementGuid>ce23443d-5807-4e88-b5dd-43cbde426d69</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[5]</value>
+      <webElementGuid>27a50578-b877-4269-85cf-6a25bfce54e9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

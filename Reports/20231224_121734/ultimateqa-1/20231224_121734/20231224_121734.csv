@@ -1,0 +1,5 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+ultimateqa-1,,,,2023-12-24 12:17:43,2023-12-24 12:17:44,0.714s,PASSED
+,,,,,,,
+Test Cases/ultimateqa-1,,,,2023-12-24 12:17:44,2023-12-24 12:17:44,0.362s,PASSED
+return null,,,,2023-12-24 12:17:44,2023-12-24 12:17:44,0.004s,PASSED

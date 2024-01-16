@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h3_Rasmalai Cake</name>
+   <tag></tag>
+   <elementGuidId>1c3fc470-01c0-4340-9f99-46130601bb4a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='shop-1']/div/div[2]/div/a/div[2]/h3</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h3</value>
+      <webElementGuid>e087d365-7d7a-4e9e-82c4-b9852aa6d38a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>prd-catg-title</value>
+      <webElementGuid>8fab223e-679c-4050-91a8-de7a8051513d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Rasmalai Cake</value>
+      <webElementGuid>52f6f032-cad8-413f-8b4c-37a489d93f8c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;shop-1&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;col-6 col-lg-3 px-1&quot;]/div[@class=&quot;product-wrap mb-15 scroll-zoom card product-div border-0 rounded-0&quot;]/a[@class=&quot;card-body py-1 px-1&quot;]/div[@class=&quot;product-content text-center text-md-left  pt-2 pl-md-2&quot;]/h3[@class=&quot;prd-catg-title&quot;]</value>
+      <webElementGuid>58112642-5902-4fe8-8833-62d02617a4f8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='shop-1']/div/div[2]/div/a/div[2]/h3</value>
+      <webElementGuid>31cf2568-ea2d-45fb-8353-e15648ea6b78</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/a/div[2]/h3</value>
+      <webElementGuid>3305bcd0-b290-47f2-a3e2-b09f6676b612</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h3[(text() = 'Rasmalai Cake' or . = 'Rasmalai Cake')]</value>
+      <webElementGuid>aac39f8f-e595-4984-8ac9-14eab2730a84</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

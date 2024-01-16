@@ -1,0 +1,631 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="New Test Suite Collection-2" time="1009.234" tests="11" failures="2" errors="0">
+   <testsuite name="New Test Suite-25" tests="1" failures="0" errors="0" time="0.443" skipped="0" timestamp="2023-12-31 19:18:03" hostname="balun - LAPTOP-2POF4N3B" id="Test Suites/New Test Suite-25">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\balun\\Katalon Studio\\My First Project-1\\Reports\\20231231_191742\\New Test Suite-25\\20231231_191743"/>
+         <property name="logFiles" value="C:\\Users\\balun\\Katalon Studio\\My First Project-1\\Reports\\20231231_191742\\New Test Suite-25\\20231231_191743\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="balun - LAPTOP-2POF4N3B"/>
+         <property name="hostAddress" value="192.168.4.35"/>
+         <property name="os" value="Windows 11 64bit"/>
+         <property name="katalonVersion" value="9.0.0.212"/>
+      </properties>
+      <testcase name="Test Cases/New Test Case-25" time="0.249" classname="Test Cases/New Test Case-25" status="PASSED">
+         <system-out><![CDATA[2023-12-31 19:18:03 - [TEST_CASE][PASSED] - Test Cases/New Test Case-25: Test Cases/New Test Case-25
+
+2023-12-31 19:18:04 - [TEST_STEP][PASSED] - return null: null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2023-12-31 19:18:03 - [TEST_SUITE][PASSED] - New Test Suite-25: Test Cases/New Test Case-25]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+   <testsuite name="saucedemo" tests="1" failures="0" errors="0" time="0.427" skipped="0" timestamp="2023-12-31 19:18:14" hostname="balun - LAPTOP-2POF4N3B" id="Test Suites/saucedemo">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\balun\\Katalon Studio\\My First Project-1\\Reports\\20231231_191742\\saucedemo\\20231231_191745"/>
+         <property name="logFiles" value="C:\\Users\\balun\\Katalon Studio\\My First Project-1\\Reports\\20231231_191742\\saucedemo\\20231231_191745\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="balun - LAPTOP-2POF4N3B"/>
+         <property name="hostAddress" value="192.168.4.35"/>
+         <property name="os" value="Windows 11 64bit"/>
+         <property name="katalonVersion" value="9.0.0.212"/>
+      </properties>
+      <testcase name="Test Cases/saucedemo" time="0.252" classname="Test Cases/saucedemo" status="PASSED">
+         <system-out><![CDATA[2023-12-31 19:18:14 - [TEST_CASE][PASSED] - Test Cases/saucedemo: Test Cases/saucedemo
+
+2023-12-31 19:18:14 - [TEST_STEP][PASSED] - return null: null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2023-12-31 19:18:14 - [TEST_SUITE][PASSED] - saucedemo: Test Cases/saucedemo]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+   <testsuite name="Test Suite-1" tests="2" failures="2" errors="0" time="935.423" skipped="0" timestamp="2023-12-31 19:18:25" hostname="balun - LAPTOP-2POF4N3B" id="Test Suites/Test Suite-1">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\balun\\Katalon Studio\\My First Project-1\\Reports\\20231231_191742\\Test Suite-1\\20231231_191747"/>
+         <property name="logFiles" value="C:\\Users\\balun\\Katalon Studio\\My First Project-1\\Reports\\20231231_191742\\Test Suite-1\\20231231_191747\\execution0.log"/>
+         <property name="attachments" value="C:\\Users\\balun\\Katalon Studio\\My First Project-1\\Reports\\20231231_191742\\Test Suite-1\\20231231_191747\\1704030627010.png, C:\\Users\\balun\\Katalon Studio\\My First Project-1\\Reports\\20231231_191742\\Test Suite-1\\20231231_191747\\1704030745184.png, C:\\Users\\balun\\Katalon Studio\\My First Project-1\\Reports\\20231231_191742\\Test Suite-1\\20231231_191747\\1704030861604.png, C:\\Users\\balun\\Katalon Studio\\My First Project-1\\Reports\\20231231_191742\\Test Suite-1\\20231231_191747\\1704030961364.png, C:\\Users\\balun\\Katalon Studio\\My First Project-1\\Reports\\20231231_191742\\Test Suite-1\\20231231_191747\\1704031061161.png, C:\\Users\\balun\\Katalon Studio\\My First Project-1\\Reports\\20231231_191742\\Test Suite-1\\20231231_191747\\1704031160847.png, C:\\Users\\balun\\Katalon Studio\\My First Project-1\\Reports\\20231231_191742\\Test Suite-1\\20231231_191747\\1704031283422.png, C:\\Users\\balun\\Katalon Studio\\My First Project-1\\Reports\\20231231_191742\\Test Suite-1\\20231231_191747\\1704031440696.png"/>
+         <property name="hostName" value="balun - LAPTOP-2POF4N3B"/>
+         <property name="os" value="Windows 11 64bit"/>
+         <property name="katalonVersion" value="9.0.0.212"/>
+         <property name="browser" value="Chrome 120.0.0.0"/>
+         <property name="hostAddress" value="192.168.4.35"/>
+         <property name="sessionId" value="42725992f05caf66b92f58b14757826a"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 11"/>
+      </properties>
+      <testcase name="Test Cases/CURA_HEALTH/New Test Case-1" time="99.758" classname="Test Cases/CURA_HEALTH/New Test Case-1" status="FAILED">
+         <failure type="FAILED" message="Test Cases/CURA_HEALTH/New Test Case-1 FAILED.&#xa;Reason:&#xa;com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/Page_Online Shopping Site for Mobiles, Elec_b3f752/button_Request OTP'&#xa;	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)&#xa;	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)&#xa;	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)&#xa;	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)&#xa;	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)&#xa;	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:620)&#xa;	at New Test Case-1.run(New Test Case-1:27)&#xa;	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)&#xa;	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)&#xa;	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)&#xa;	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)&#xa;	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)&#xa;	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)&#xa;	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)&#xa;	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)&#xa;	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)&#xa;	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)&#xa;	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)&#xa;	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)&#xa;	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)&#xa;	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)&#xa;	at TempTestSuite1704030467261.run(TempTestSuite1704030467261.groovy:36)&#xa;	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)&#xa;	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)&#xa;	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)&#xa;Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/Page_Online Shopping Site for Mobiles, Elec_b3f752/button_Request OTP' located by '//div[3]/button' not found&#xa;	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1379)&#xa;	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)&#xa;	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:65)&#xa;	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)&#xa;	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)&#xa;	... 23 more&#xa;"/>
+         <system-out><![CDATA[2023-12-31 19:24:21 - [TEST_CASE][FAILED] - Test Cases/CURA_HEALTH/New Test Case-1: Test Cases/CURA_HEALTH/New Test Case-1 FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/Page_Online Shopping Site for Mobiles, Elec_b3f752/button_Request OTP'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:620)
+	at New Test Case-1.run(New Test Case-1:27)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at TempTestSuite1704030467261.run(TempTestSuite1704030467261.groovy:36)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/Page_Online Shopping Site for Mobiles, Elec_b3f752/button_Request OTP' located by '//div[3]/button' not found
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1379)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:65)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 23 more
+
+
+2023-12-31 19:24:21 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-12-31 19:24:21 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2023-12-31 19:24:21 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-12-31 19:24:21 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-12-31 19:24:22 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-12-31 19:24:22 - [TEST_STEP][PASSED] - navigateToUrl("https://www.flipkart.com/"): Navigate to 'https://www.flipkart.com/' successfully
+
+2023-12-31 19:24:24 - [MESSAGE][PASSED] - Navigate to 'https://www.flipkart.com/' successfully
+
+2023-12-31 19:24:24 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Online Shopping Site for Mobiles, Elec_b3f752/input__18u87m _3WuvDp"), "720790930"): Text '720790930' is set on object 'Object Repository/Page_Online Shopping Site for Mobiles, Elec_b3f752/input__18u87m _3WuvDp'
+
+2023-12-31 19:24:55 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: (//input[@value=''])[2]'. Please recheck the objects properties to make sure the desired element is located. 
+
+2023-12-31 19:24:55 - [MESSAGE][WARNING] - [SELF-HEALING] Failed to find element with id 'Object Repository/Page_Online Shopping Site for Mobiles, Elec_b3f752/input__18u87m _3WuvDp'. Try using Self-healing.
+
+2023-12-31 19:24:55 - [MESSAGE][WARNING] - [SELF-HEALING] The current locator of test object 'Object Repository/Page_Online Shopping Site for Mobiles, Elec_b3f752/input__18u87m _3WuvDp' was broken. Propose an alternative one: '//input[@type = 'text']'.
+
+2023-12-31 19:25:26 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: (//input[@value=''])[2]'. Please recheck the objects properties to make sure the desired element is located. 
+
+2023-12-31 19:25:26 - [MESSAGE][WARNING] - [SELF-HEALING] Failed to find element with id 'Object Repository/Page_Online Shopping Site for Mobiles, Elec_b3f752/input__18u87m _3WuvDp'. Try using Self-healing.
+
+2023-12-31 19:25:27 - [MESSAGE][WARNING] - [SELF-HEALING] The current locator of test object 'Object Repository/Page_Online Shopping Site for Mobiles, Elec_b3f752/input__18u87m _3WuvDp' was broken. Propose an alternative one: '//input[@type = 'text']'.
+
+2023-12-31 19:25:27 - [MESSAGE][PASSED] - Text '720790930' is set on object 'Object Repository/Page_Online Shopping Site for Mobiles, Elec_b3f752/input__18u87m _3WuvDp'
+
+2023-12-31 19:25:27 - [TEST_STEP][FAILED] - click(findTestObject("Object Repository/Page_Online Shopping Site for Mobiles, Elec_b3f752/button_Request OTP")): Unable to click on object 'Object Repository/Page_Online Shopping Site for Mobiles, Elec_b3f752/button_Request OTP' (Root cause: com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/Page_Online Shopping Site for Mobiles, Elec_b3f752/button_Request OTP'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:620)
+	at New Test Case-1.run(New Test Case-1:27)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at TempTestSuite1704030467261.run(TempTestSuite1704030467261.groovy:36)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/Page_Online Shopping Site for Mobiles, Elec_b3f752/button_Request OTP' located by '//div[3]/button' not found
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1379)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:65)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:620)
+	at Script1701270515160.run(Script1701270515160.groovy:27)
+	... 18 more
+)
+
+2023-12-31 19:25:58 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: //div[3]/button'. Please recheck the objects properties to make sure the desired element is located. 
+
+2023-12-31 19:25:58 - [MESSAGE][WARNING] - [SELF-HEALING] Failed to find element with id 'Object Repository/Page_Online Shopping Site for Mobiles, Elec_b3f752/button_Request OTP'. Try using Self-healing.
+
+2023-12-31 19:25:58 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//div[3]/button'.
+
+2023-12-31 19:25:58 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//button[(text() = 'Request OTP' or . = 'Request OTP')]'.
+
+2023-12-31 19:25:59 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//div[3]/button'.
+
+2023-12-31 19:25:59 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//button[(text() = 'Request OTP' or . = 'Request OTP')]'.
+
+2023-12-31 19:26:00 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: //*[(text() = 'Request OTP' or . = 'Request OTP')]'. Please recheck the objects properties to make sure the desired element is located. 
+
+2023-12-31 19:26:01 - [MESSAGE][INFO] - Unable to find the element located by 'By.cssSelector: button._1wGnMD.rX1XT4._2nD2xJ'. Please recheck the objects properties to make sure the desired element is located. 
+
+2023-12-31 19:26:01 - [MESSAGE][FAILED] - Unable to click on object 'Object Repository/Page_Online Shopping Site for Mobiles, Elec_b3f752/button_Request OTP' (Root cause: com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/Page_Online Shopping Site for Mobiles, Elec_b3f752/button_Request OTP'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:620)
+	at New Test Case-1.run(New Test Case-1:27)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at TempTestSuite1704030467261.run(TempTestSuite1704030467261.groovy:36)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/Page_Online Shopping Site for Mobiles, Elec_b3f752/button_Request OTP' located by '//div[3]/button' not found
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1379)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:65)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:620)
+	at Script1701270515160.run(Script1701270515160.groovy:27)
+	... 18 more
+)
+[[ATTACHMENT|C:\\Users\\balun\\Katalon Studio\\My First Project-1\\Reports\\20231231_191742\\Test Suite-1\\20231231_191747\\1704030961364.png]]]]></system-out>
+         <system-err><![CDATA[2023-12-31 19:24:21 - [TEST_CASE][FAILED] - Test Cases/CURA_HEALTH/New Test Case-1: Test Cases/CURA_HEALTH/New Test Case-1 FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/Page_Online Shopping Site for Mobiles, Elec_b3f752/button_Request OTP'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:620)
+	at New Test Case-1.run(New Test Case-1:27)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at TempTestSuite1704030467261.run(TempTestSuite1704030467261.groovy:36)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/Page_Online Shopping Site for Mobiles, Elec_b3f752/button_Request OTP' located by '//div[3]/button' not found
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1379)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:65)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 23 more]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/CURA_HEALTH/New Test Case-1" time="157.258" classname="Test Cases/CURA_HEALTH/New Test Case-1" status="FAILED">
+         <failure type="FAILED" message="Test Cases/CURA_HEALTH/New Test Case-1 FAILED.&#xa;Reason:&#xa;com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/Page_Online Shopping Site for Mobiles, Elec_b3f752/button_Request OTP'&#xa;	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)&#xa;	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)&#xa;	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)&#xa;	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)&#xa;	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)&#xa;	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:620)&#xa;	at New Test Case-1.run(New Test Case-1:27)&#xa;	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)&#xa;	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)&#xa;	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)&#xa;	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)&#xa;	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)&#xa;	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)&#xa;	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)&#xa;	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)&#xa;	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)&#xa;	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)&#xa;	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)&#xa;	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)&#xa;	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)&#xa;	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)&#xa;	at TempTestSuite1704030467261.run(TempTestSuite1704030467261.groovy:36)&#xa;	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)&#xa;	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)&#xa;	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)&#xa;Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/Page_Online Shopping Site for Mobiles, Elec_b3f752/button_Request OTP' located by '//div[3]/button' not found&#xa;	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1379)&#xa;	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)&#xa;	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:65)&#xa;	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)&#xa;	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)&#xa;	... 23 more&#xa;"/>
+         <system-out><![CDATA[2023-12-31 19:31:23 - [TEST_CASE][FAILED] - Test Cases/CURA_HEALTH/New Test Case-1: Test Cases/CURA_HEALTH/New Test Case-1 FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/Page_Online Shopping Site for Mobiles, Elec_b3f752/button_Request OTP'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:620)
+	at New Test Case-1.run(New Test Case-1:27)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at TempTestSuite1704030467261.run(TempTestSuite1704030467261.groovy:36)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/Page_Online Shopping Site for Mobiles, Elec_b3f752/button_Request OTP' located by '//div[3]/button' not found
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1379)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:65)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 23 more
+
+
+2023-12-31 19:31:23 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-12-31 19:31:23 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2023-12-31 19:31:23 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-12-31 19:31:23 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-12-31 19:31:24 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-12-31 19:31:24 - [TEST_STEP][PASSED] - navigateToUrl("https://www.flipkart.com/"): Navigate to 'https://www.flipkart.com/' successfully
+
+2023-12-31 19:31:25 - [MESSAGE][PASSED] - Navigate to 'https://www.flipkart.com/' successfully
+
+2023-12-31 19:31:25 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Online Shopping Site for Mobiles, Elec_b3f752/input__18u87m _3WuvDp"), "720790930"): Text '720790930' is set on object 'Object Repository/Page_Online Shopping Site for Mobiles, Elec_b3f752/input__18u87m _3WuvDp'
+
+2023-12-31 19:32:06 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: (//input[@value=''])[2]'. Please recheck the objects properties to make sure the desired element is located. 
+
+2023-12-31 19:32:06 - [MESSAGE][WARNING] - [SELF-HEALING] Failed to find element with id 'Object Repository/Page_Online Shopping Site for Mobiles, Elec_b3f752/input__18u87m _3WuvDp'. Try using Self-healing.
+
+2023-12-31 19:32:36 - [MESSAGE][WARNING] - [SELF-HEALING] The current locator of test object 'Object Repository/Page_Online Shopping Site for Mobiles, Elec_b3f752/input__18u87m _3WuvDp' was broken. Propose an alternative one: '//input[@type = 'text']'.
+
+2023-12-31 19:33:26 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: (//input[@value=''])[2]'. Please recheck the objects properties to make sure the desired element is located. 
+
+2023-12-31 19:33:26 - [MESSAGE][WARNING] - [SELF-HEALING] Failed to find element with id 'Object Repository/Page_Online Shopping Site for Mobiles, Elec_b3f752/input__18u87m _3WuvDp'. Try using Self-healing.
+
+2023-12-31 19:33:26 - [MESSAGE][WARNING] - [SELF-HEALING] The current locator of test object 'Object Repository/Page_Online Shopping Site for Mobiles, Elec_b3f752/input__18u87m _3WuvDp' was broken. Propose an alternative one: '//input[@type = 'text']'.
+
+2023-12-31 19:33:26 - [MESSAGE][PASSED] - Text '720790930' is set on object 'Object Repository/Page_Online Shopping Site for Mobiles, Elec_b3f752/input__18u87m _3WuvDp'
+
+2023-12-31 19:33:26 - [TEST_STEP][FAILED] - click(findTestObject("Object Repository/Page_Online Shopping Site for Mobiles, Elec_b3f752/button_Request OTP")): Unable to click on object 'Object Repository/Page_Online Shopping Site for Mobiles, Elec_b3f752/button_Request OTP' (Root cause: com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/Page_Online Shopping Site for Mobiles, Elec_b3f752/button_Request OTP'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:620)
+	at New Test Case-1.run(New Test Case-1:27)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at TempTestSuite1704030467261.run(TempTestSuite1704030467261.groovy:36)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/Page_Online Shopping Site for Mobiles, Elec_b3f752/button_Request OTP' located by '//div[3]/button' not found
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1379)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:65)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:620)
+	at Script1701270515160.run(Script1701270515160.groovy:27)
+	... 18 more
+)
+
+2023-12-31 19:33:57 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: //div[3]/button'. Please recheck the objects properties to make sure the desired element is located. 
+
+2023-12-31 19:33:57 - [MESSAGE][WARNING] - [SELF-HEALING] Failed to find element with id 'Object Repository/Page_Online Shopping Site for Mobiles, Elec_b3f752/button_Request OTP'. Try using Self-healing.
+
+2023-12-31 19:33:57 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//div[3]/button'.
+
+2023-12-31 19:33:58 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//button[(text() = 'Request OTP' or . = 'Request OTP')]'.
+
+2023-12-31 19:33:58 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//div[3]/button'.
+
+2023-12-31 19:33:58 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//button[(text() = 'Request OTP' or . = 'Request OTP')]'.
+
+2023-12-31 19:33:59 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: //*[(text() = 'Request OTP' or . = 'Request OTP')]'. Please recheck the objects properties to make sure the desired element is located. 
+
+2023-12-31 19:34:00 - [MESSAGE][INFO] - Unable to find the element located by 'By.cssSelector: button._1wGnMD.rX1XT4._2nD2xJ'. Please recheck the objects properties to make sure the desired element is located. 
+
+2023-12-31 19:34:00 - [MESSAGE][FAILED] - Unable to click on object 'Object Repository/Page_Online Shopping Site for Mobiles, Elec_b3f752/button_Request OTP' (Root cause: com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/Page_Online Shopping Site for Mobiles, Elec_b3f752/button_Request OTP'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:620)
+	at New Test Case-1.run(New Test Case-1:27)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at TempTestSuite1704030467261.run(TempTestSuite1704030467261.groovy:36)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/Page_Online Shopping Site for Mobiles, Elec_b3f752/button_Request OTP' located by '//div[3]/button' not found
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1379)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:65)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:620)
+	at Script1701270515160.run(Script1701270515160.groovy:27)
+	... 18 more
+)
+[[ATTACHMENT|C:\\Users\\balun\\Katalon Studio\\My First Project-1\\Reports\\20231231_191742\\Test Suite-1\\20231231_191747\\1704031440696.png]]]]></system-out>
+         <system-err><![CDATA[2023-12-31 19:31:23 - [TEST_CASE][FAILED] - Test Cases/CURA_HEALTH/New Test Case-1: Test Cases/CURA_HEALTH/New Test Case-1 FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/Page_Online Shopping Site for Mobiles, Elec_b3f752/button_Request OTP'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:620)
+	at New Test Case-1.run(New Test Case-1:27)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at TempTestSuite1704030467261.run(TempTestSuite1704030467261.groovy:36)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/Page_Online Shopping Site for Mobiles, Elec_b3f752/button_Request OTP' located by '//div[3]/button' not found
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1379)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:65)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 23 more]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2023-12-31 19:18:25 - [TEST_SUITE][FAILED] - Test Suite-1: Test Cases/CURA_HEALTH/New Test Case-1 FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/Page_Online Shopping Site for Mobiles, Elec_b3f752/button_Request OTP'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:620)
+	at New Test Case-1.run(New Test Case-1:27)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at TempTestSuite1704030467261.run(TempTestSuite1704030467261.groovy:36)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/Page_Online Shopping Site for Mobiles, Elec_b3f752/button_Request OTP' located by '//div[3]/button' not found
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1379)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:65)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 20 more]]></system-out>
+      <system-err><![CDATA[2023-12-31 19:18:25 - [TEST_SUITE][FAILED] - Test Suite-1: Test Cases/CURA_HEALTH/New Test Case-1 FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/Page_Online Shopping Site for Mobiles, Elec_b3f752/button_Request OTP'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:620)
+	at New Test Case-1.run(New Test Case-1:27)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at TempTestSuite1704030467261.run(TempTestSuite1704030467261.groovy:36)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/Page_Online Shopping Site for Mobiles, Elec_b3f752/button_Request OTP' located by '//div[3]/button' not found
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1379)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:65)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 20 more]]></system-err>
+   </testsuite>
+   <testsuite name="New Test Suite-1" tests="4" failures="0" errors="0" time="0.461" skipped="0" timestamp="2023-12-31 19:34:11" hostname="balun - LAPTOP-2POF4N3B" id="Test Suites/Record_mode/New Test Suite-1">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\balun\\Katalon Studio\\My First Project-1\\Reports\\20231231_191742\\Record_mode\\New Test Suite-1\\20231231_191749"/>
+         <property name="logFiles" value="C:\\Users\\balun\\Katalon Studio\\My First Project-1\\Reports\\20231231_191742\\Record_mode\\New Test Suite-1\\20231231_191749\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="balun - LAPTOP-2POF4N3B"/>
+         <property name="hostAddress" value="192.168.4.35"/>
+         <property name="os" value="Windows 11 64bit"/>
+         <property name="katalonVersion" value="9.0.0.212"/>
+      </properties>
+      <testcase name="Test Cases/Justbake/New Test Case-1" time="0.23" classname="Test Cases/Justbake/New Test Case-1" status="PASSED">
+         <system-out><![CDATA[2023-12-31 19:34:11 - [TEST_CASE][PASSED] - Test Cases/Justbake/New Test Case-1: Test Cases/Justbake/New Test Case-1
+
+2023-12-31 19:34:11 - [TEST_STEP][PASSED] - return null: null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Justbake/New Test Case-2" time="0.02" classname="Test Cases/Justbake/New Test Case-2" status="PASSED">
+         <system-out><![CDATA[2023-12-31 19:34:11 - [TEST_CASE][PASSED] - Test Cases/Justbake/New Test Case-2: Test Cases/Justbake/New Test Case-2
+
+2023-12-31 19:34:11 - [TEST_STEP][PASSED] - return null: null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Flipkart/New Test Case-1" time="0.018" classname="Test Cases/Flipkart/New Test Case-1" status="PASSED">
+         <system-out><![CDATA[2023-12-31 19:34:11 - [TEST_CASE][PASSED] - Test Cases/Flipkart/New Test Case-1: Test Cases/Flipkart/New Test Case-1
+
+2023-12-31 19:34:11 - [TEST_STEP][PASSED] - return null: null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Flipkart/New Test Case-2" time="0.016" classname="Test Cases/Flipkart/New Test Case-2" status="PASSED">
+         <system-out><![CDATA[2023-12-31 19:34:11 - [TEST_CASE][PASSED] - Test Cases/Flipkart/New Test Case-2: Test Cases/Flipkart/New Test Case-2
+
+2023-12-31 19:34:11 - [TEST_STEP][PASSED] - return null: null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2023-12-31 19:34:11 - [TEST_SUITE][PASSED] - New Test Suite-1: Test Cases/Flipkart/New Test Case-2]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+   <testsuite name="New Test Suite-myntra" tests="1" failures="0" errors="0" time="0.372" skipped="0" timestamp="2023-12-31 19:34:26" hostname="balun - LAPTOP-2POF4N3B" id="Test Suites/New Test Suite-myntra">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\balun\\Katalon Studio\\My First Project-1\\Reports\\20231231_191742\\New Test Suite-myntra\\20231231_191751"/>
+         <property name="logFiles" value="C:\\Users\\balun\\Katalon Studio\\My First Project-1\\Reports\\20231231_191742\\New Test Suite-myntra\\20231231_191751\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="balun - LAPTOP-2POF4N3B"/>
+         <property name="hostAddress" value="192.168.4.35"/>
+         <property name="os" value="Windows 11 64bit"/>
+         <property name="katalonVersion" value="9.0.0.212"/>
+      </properties>
+      <testcase name="Test Cases/Myntra-11/Myntra" time="0.224" classname="Test Cases/Myntra-11/Myntra" status="PASSED">
+         <system-out><![CDATA[2023-12-31 19:34:27 - [TEST_CASE][PASSED] - Test Cases/Myntra-11/Myntra: Test Cases/Myntra-11/Myntra
+
+2023-12-31 19:34:27 - [TEST_STEP][PASSED] - return null: null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2023-12-31 19:34:26 - [TEST_SUITE][PASSED] - New Test Suite-myntra: Test Cases/Myntra-11/Myntra]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+   <testsuite name="New Test Suite-19" tests="1" failures="0" errors="0" time="0.386" skipped="0" timestamp="2023-12-31 19:34:37" hostname="balun - LAPTOP-2POF4N3B" id="Test Suites/New Test Suite-19">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\balun\\Katalon Studio\\My First Project-1\\Reports\\20231231_191742\\New Test Suite-19\\20231231_191753"/>
+         <property name="logFiles" value="C:\\Users\\balun\\Katalon Studio\\My First Project-1\\Reports\\20231231_191742\\New Test Suite-19\\20231231_191753\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="balun - LAPTOP-2POF4N3B"/>
+         <property name="hostAddress" value="192.168.4.35"/>
+         <property name="os" value="Windows 11 64bit"/>
+         <property name="katalonVersion" value="9.0.0.212"/>
+      </properties>
+      <testcase name="Test Cases/New Test Case-19" time="0.214" classname="Test Cases/New Test Case-19" status="PASSED">
+         <system-out><![CDATA[2023-12-31 19:34:37 - [TEST_CASE][PASSED] - Test Cases/New Test Case-19: Test Cases/New Test Case-19
+
+2023-12-31 19:34:37 - [TEST_STEP][PASSED] - return null: null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2023-12-31 19:34:37 - [TEST_SUITE][PASSED] - New Test Suite-19: Test Cases/New Test Case-19]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+   <testsuite name="New Test Suite-18" tests="1" failures="0" errors="0" time="0.414" skipped="0" timestamp="2023-12-31 19:34:48" hostname="balun - LAPTOP-2POF4N3B" id="Test Suites/New Test Suite-18">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\balun\\Katalon Studio\\My First Project-1\\Reports\\20231231_191742\\New Test Suite-18\\20231231_191755"/>
+         <property name="logFiles" value="C:\\Users\\balun\\Katalon Studio\\My First Project-1\\Reports\\20231231_191742\\New Test Suite-18\\20231231_191755\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="balun - LAPTOP-2POF4N3B"/>
+         <property name="hostAddress" value="192.168.4.35"/>
+         <property name="os" value="Windows 11 64bit"/>
+         <property name="katalonVersion" value="9.0.0.212"/>
+      </properties>
+      <testcase name="Test Cases/New Test Case-18" time="0.238" classname="Test Cases/New Test Case-18" status="PASSED">
+         <system-out><![CDATA[2023-12-31 19:34:48 - [TEST_CASE][PASSED] - Test Cases/New Test Case-18: Test Cases/New Test Case-18
+
+2023-12-31 19:34:48 - [TEST_STEP][PASSED] - return null: null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2023-12-31 19:34:48 - [TEST_SUITE][PASSED] - New Test Suite-18: Test Cases/New Test Case-18]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>strong_What You Get in the FREE Assessment</name>
+   <tag></tag>
+   <elementGuidId>638cd463-e23e-4ff8-a17a-bf7d96bb76bb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>strong</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//strong</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>strong</value>
+      <webElementGuid>a1c29e9e-f010-49b8-a365-c9b3850dfcd7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>What You Get in the FREE Assessment:</value>
+      <webElementGuid>a7b38db2-6cf1-46c6-8579-5712b9123458</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;cu-os-win&quot;]/app-root[@class=&quot;app-root&quot;]/cu-form[@class=&quot;ng-tns-c2635242499-0 cu-form ng-star-inserted&quot;]/div[@class=&quot;cu-form__scroll ng-tns-c2635242499-0&quot;]/div[@class=&quot;cu-form__container ng-tns-c2635242499-0 ng-untouched ng-pristine ng-invalid ng-star-inserted&quot;]/div[@class=&quot;cu-task-editor ng-tns-c2635242499-0&quot;]/div[@class=&quot;cu-editor-wrapper ng-tns-c2635242499-0&quot;]/div[@class=&quot;cu-editor-content ng-tns-c2635242499-0&quot;]/div[@class=&quot;cu-editor ql-container ng-tns-c2635242499-0&quot;]/div[@class=&quot;cu-form__description ql-editor ng-tns-c2635242499-0 ng-star-inserted&quot;]/p[1]/strong[1]</value>
+      <webElementGuid>1d1f31d6-799e-44af-b073-fcae570862c1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//strong</value>
+      <webElementGuid>f90bca0a-7056-4454-a512-3061bebc4336</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//strong[(text() = 'What You Get in the FREE Assessment:' or . = 'What You Get in the FREE Assessment:')]</value>
+      <webElementGuid>636f7c1d-776f-4471-8592-0bc036dc718c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

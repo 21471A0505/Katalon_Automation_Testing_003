@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Login_mdi mdi-cart-outline</name>
+   <tag></tag>
+   <elementGuidId>1d3c0fad-5d21-4ddb-b53c-3cb0381dc230</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.mdi.mdi-cart-outline</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='head_counter']/a/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>9ff8f049-2f67-4923-96f8-d9a4932aa42c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mdi mdi-cart-outline</value>
+      <webElementGuid>c9554663-89db-4c0f-a005-6abfe9fbfc6e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>d6daf6dd-b66f-416b-aed4-22c9c2ee3f3e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;head_counter&quot;)/a[@class=&quot;icon-cart&quot;]/i[@class=&quot;mdi mdi-cart-outline&quot;]</value>
+      <webElementGuid>ba38360c-e17c-4098-a7f2-2d783c59a7d7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='head_counter']/a/i</value>
+      <webElementGuid>99ef15e3-e910-419f-8616-8bfe54c34b06</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/a/i</value>
+      <webElementGuid>5f7dc5e4-f210-42e9-838a-ae87a6b6be51</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

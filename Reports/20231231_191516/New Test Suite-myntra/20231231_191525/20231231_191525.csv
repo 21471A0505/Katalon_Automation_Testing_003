@@ -1,0 +1,5 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+New Test Suite-myntra,,,,2023-12-31 19:30:41,2023-12-31 19:30:42,0.390s,PASSED
+,,,,,,,
+Test Cases/Myntra-11/Myntra,,,,2023-12-31 19:30:42,2023-12-31 19:30:42,0.228s,PASSED
+return null,,,,2023-12-31 19:30:42,2023-12-31 19:30:42,0.003s,PASSED

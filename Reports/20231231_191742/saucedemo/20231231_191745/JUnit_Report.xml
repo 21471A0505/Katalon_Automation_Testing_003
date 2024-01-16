@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="saucedemo" time="0.427" tests="1" failures="0" errors="0">
+   <testsuite name="saucedemo" tests="1" failures="0" errors="0" time="0.427" skipped="0" timestamp="2023-12-31 19:18:14" hostname="balun - LAPTOP-2POF4N3B" id="Test Suites/saucedemo">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\balun\\Katalon Studio\\My First Project-1\\Reports\\20231231_191742\\saucedemo\\20231231_191745"/>
+         <property name="logFiles" value="C:\\Users\\balun\\Katalon Studio\\My First Project-1\\Reports\\20231231_191742\\saucedemo\\20231231_191745\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="balun - LAPTOP-2POF4N3B"/>
+         <property name="hostAddress" value="192.168.4.35"/>
+         <property name="os" value="Windows 11 64bit"/>
+         <property name="katalonVersion" value="9.0.0.212"/>
+      </properties>
+      <testcase name="Test Cases/saucedemo" time="0.252" classname="Test Cases/saucedemo" status="PASSED">
+         <system-out><![CDATA[2023-12-31 19:18:14 - [TEST_CASE][PASSED] - Test Cases/saucedemo: Test Cases/saucedemo
+
+2023-12-31 19:18:14 - [TEST_STEP][PASSED] - return null: null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2023-12-31 19:18:14 - [TEST_SUITE][PASSED] - saucedemo: Test Cases/saucedemo]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

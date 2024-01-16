@@ -1,0 +1,14 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+New Test Suite-1,,,,2023-12-31 19:30:27,2023-12-31 19:30:27,0.474s,PASSED
+,,,,,,,
+Test Cases/Justbake/New Test Case-1,,,,2023-12-31 19:30:27,2023-12-31 19:30:27,0.231s,PASSED
+return null,,,,2023-12-31 19:30:27,2023-12-31 19:30:27,0.002s,PASSED
+,,,,,,,
+Test Cases/Justbake/New Test Case-2,,,,2023-12-31 19:30:27,2023-12-31 19:30:27,0.020s,PASSED
+return null,,,,2023-12-31 19:30:27,2023-12-31 19:30:27,0.001s,PASSED
+,,,,,,,
+Test Cases/Flipkart/New Test Case-1,,,,2023-12-31 19:30:27,2023-12-31 19:30:27,0.018s,PASSED
+return null,,,,2023-12-31 19:30:27,2023-12-31 19:30:27,0.000s,PASSED
+,,,,,,,
+Test Cases/Flipkart/New Test Case-2,,,,2023-12-31 19:30:27,2023-12-31 19:30:27,0.018s,PASSED
+return null,,,,2023-12-31 19:30:27,2023-12-31 19:30:27,0.000s,PASSED

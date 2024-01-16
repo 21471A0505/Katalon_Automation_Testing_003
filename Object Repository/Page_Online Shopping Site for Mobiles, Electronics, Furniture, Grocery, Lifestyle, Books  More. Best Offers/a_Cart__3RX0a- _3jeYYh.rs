@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Cart__3RX0a- _3jeYYh</name>
+   <tag></tag>
+   <elementGuidId>fbc464cf-7303-4522-9b02-f16e76057eee</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a._3RX0a-._3jeYYh</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='container']/div/div/div/div/div/div/div/div/div/div/div/div/header/div[2]/div[4]/div/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>9eb53f0a-ff5f-4977-a50d-a768ec2e0f68</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://seller.flipkart.com/sell-online/?utm_source=fkwebsite&amp;utm_medium=websitedirect</value>
+      <webElementGuid>8a4a488e-5c5e-42a6-a1e4-6e40f081f78f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Become a Seller</value>
+      <webElementGuid>8dc42505-bcda-4313-9e90-3c050ea8e912</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>_3RX0a- _3jeYYh</value>
+      <webElementGuid>0ffc89cb-e68f-452c-806b-b97d76cdbab2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;container&quot;)/div[1]/div[@class=&quot;q8WwEU&quot;]/div[@class=&quot;_3zsGrb&quot;]/div[@class=&quot;_2-LWwB&quot;]/div[1]/div[@class=&quot;css-1dbjc4n r-13awgt0 r-1udh08x&quot;]/div[@class=&quot;css-1dbjc4n r-13awgt0&quot;]/div[@class=&quot;css-1dbjc4n r-13awgt0 r-1iqfa7g r-60vfwk&quot;]/div[@class=&quot;css-1dbjc4n r-13awgt0 r-1iqfa7g r-60vfwk&quot;]/div[@class=&quot;_1ui5b4&quot;]/div[@class=&quot;_2nl6Ch&quot;]/div[@class=&quot;_2NhoPJ&quot;]/header[@class=&quot;_3EOQ5Q&quot;]/div[@class=&quot;_2msBFL&quot;]/div[4]/div[@class=&quot;_38VF5e&quot;]/a[@class=&quot;_3RX0a- _3jeYYh&quot;]</value>
+      <webElementGuid>389d0cdc-b9cb-41eb-a3f7-c2477d8f81fe</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='container']/div/div/div/div/div/div/div/div/div/div/div/div/header/div[2]/div[4]/div/a</value>
+      <webElementGuid>dbbc7c68-8a70-4006-a4b2-9349f15bc3cb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://seller.flipkart.com/sell-online/?utm_source=fkwebsite&amp;utm_medium=websitedirect')]</value>
+      <webElementGuid>65b87ebb-c820-4125-9c78-f4e318e92293</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/a</value>
+      <webElementGuid>d1ca711b-3f87-4772-bf78-8d19be7a2a3f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://seller.flipkart.com/sell-online/?utm_source=fkwebsite&amp;utm_medium=websitedirect' and @title = 'Become a Seller']</value>
+      <webElementGuid>c5f84783-dc82-4654-8f6b-7d8ffd265cf4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

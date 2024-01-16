@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Login</name>
+   <tag></tag>
+   <elementGuidId>70e9276e-2708-489d-afb4-c53dea215b86</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.H6-NpN._3N4_BX</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='container']/div/div/div/div/div/div/div/div/div/div/div/div/header/div[2]/div[2]/div/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>c8394b42-c101-46a7-b94e-126648cbacb3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>H6-NpN _3N4_BX</value>
+      <webElementGuid>bdc9723f-e1a2-4372-bc27-155110f6c107</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Login</value>
+      <webElementGuid>23627f08-7a28-42fd-9f9f-adfdbf3ffda6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;container&quot;)/div[1]/div[@class=&quot;q8WwEU&quot;]/div[@class=&quot;_3zsGrb&quot;]/div[@class=&quot;_2-LWwB&quot;]/div[1]/div[@class=&quot;css-1dbjc4n r-13awgt0 r-1udh08x&quot;]/div[@class=&quot;css-1dbjc4n r-13awgt0&quot;]/div[@class=&quot;css-1dbjc4n r-13awgt0 r-1iqfa7g r-60vfwk&quot;]/div[@class=&quot;css-1dbjc4n r-13awgt0 r-1iqfa7g r-60vfwk&quot;]/div[@class=&quot;_1ui5b4&quot;]/div[@class=&quot;_2nl6Ch&quot;]/div[@class=&quot;_2NhoPJ&quot;]/header[@class=&quot;_3EOQ5Q&quot;]/div[@class=&quot;_2msBFL&quot;]/div[2]/div[@class=&quot;_38VF5e&quot;]/div[@class=&quot;_3jeYYh&quot;]/div[@class=&quot;_1Us3XD&quot;]/div[@class=&quot;H6-NpN _3N4_BX&quot;]</value>
+      <webElementGuid>4bdb8e85-3bd1-453e-83f7-fbdf5fe07609</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='container']/div/div/div/div/div/div/div/div/div/div/div/div/header/div[2]/div[2]/div/div/div/div</value>
+      <webElementGuid>906c02ec-94a4-4089-beb3-b90590c37439</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/div/div/div</value>
+      <webElementGuid>cf4e58cd-f070-4cca-889a-a68c731b9a5a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Login' or . = 'Login')]</value>
+      <webElementGuid>2744ea1e-c1cb-4e20-be10-39c9fec33937</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

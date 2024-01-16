@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h1_If you require any customized cakes, please representative or call 918970010222</name>
+   <tag></tag>
+   <elementGuidId>ce468f38-ff21-431d-9062-3d7aa3f3854c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//h1[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h1</value>
+      <webElementGuid>0344b4d4-5117-46ee-a979-8c75b1a652bc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>section-title</value>
+      <webElementGuid>eee86f37-d6b0-4a97-8fce-66ba2cab732b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>If you require any customized cakes, please contact our support representative or call +918970010222</value>
+      <webElementGuid>bfd7733b-df86-48ba-a136-c0f75b539bb8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;no-js&quot;]/body[1]/div[@class=&quot;shop-area pt-10 pb-50&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-12&quot;]/div[@class=&quot;shop-top-bar&quot;]/h1[@class=&quot;section-title&quot;]</value>
+      <webElementGuid>c261efa5-09cb-4156-a555-70682a13228f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h1[2]</value>
+      <webElementGuid>232bf62f-1abb-4625-af91-53b6d69b9746</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h1[(text() = 'If you require any customized cakes, please contact our support representative or call +918970010222' or . = 'If you require any customized cakes, please contact our support representative or call +918970010222')]</value>
+      <webElementGuid>fbcaec67-aa61-4f33-9a7d-cd871be72fbf</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Submit</name>
+   <tag></tag>
+   <elementGuidId>7a0969ee-4206-4652-9a2e-00b7985a124d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.v-btn__content > span</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div/div[2]/form/div/div[2]/div/div[2]/div/button/div/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>a244b86c-5a31-4e2c-97da-69883782cb45</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                      Submit
+                    </value>
+      <webElementGuid>cb5085b6-8ad2-43e4-b3a2-46c767709298</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;application--wrap&quot;]/div[@class=&quot;layout row wrap&quot;]/div[@class=&quot;flex inquiry-form xs12 md6&quot;]/form[@class=&quot;v-form&quot;]/div[@class=&quot;offer-box form-card v-card v-sheet theme--light elevation-4&quot;]/div[2]/div[@class=&quot;v-card__text&quot;]/div[@class=&quot;d-flex justify-space-between&quot;]/div[@class=&quot;text-xs-center mt-3 mb-4&quot;]/button[@class=&quot;v-btn v-btn--round theme--light primary&quot;]/div[@class=&quot;v-btn__content&quot;]/span[1]</value>
+      <webElementGuid>5b434387-777d-4cd8-b681-a46eb3e64708</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div/div[2]/form/div/div[2]/div/div[2]/div/button/div/span</value>
+      <webElementGuid>4e02cdaa-c5c4-49f1-81d3-64709b130771</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/div/span</value>
+      <webElementGuid>cd8e8325-b2ed-45ad-936b-1e8b83ded33e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '
+                      Submit
+                    ' or . = '
+                      Submit
+                    ')]</value>
+      <webElementGuid>bf309b36-2348-4d38-a5a6-89fd03d30c33</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

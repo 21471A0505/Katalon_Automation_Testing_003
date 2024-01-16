@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Select city Verify Delivery Pinurrent Loginto see your saved addressesLogin More Cart</name>
+   <tag></tag>
+   <elementGuidId>42769a72-0272-403d-a51f-73efe4e96a59</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div._2Xfa2_</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='container']/div/div/div/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>1e78890e-a3ed-478c-be90-7634154ed42e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>_2Xfa2_</value>
+      <webElementGuid>72f53a08-312d-4e83-83d5-c54984ca504c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select city Verify Delivery Pincode Only available in selected citiesCurrent Location Please enter pincode Loginto see your saved addressesLogin More Cart</value>
+      <webElementGuid>644c3827-ab8e-4112-bf52-131993daf7a9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;container&quot;)/div[1]/div[@class=&quot;_1kfTjk&quot;]/div[@class=&quot;_2nQkPF _1rH5Jn&quot;]/div[@class=&quot;_2Xfa2_&quot;]</value>
+      <webElementGuid>15c9d37c-5ae6-456c-89d4-69cb5e5f0490</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='container']/div/div/div/div[2]</value>
+      <webElementGuid>a10fe6cc-82f0-4f4a-8697-44b2a84f8484</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div/div[2]</value>
+      <webElementGuid>09adf478-b53f-438f-a889-27109e683d77</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Select city Verify Delivery Pincode Only available in selected citiesCurrent Location Please enter pincode Loginto see your saved addressesLogin More Cart' or . = 'Select city Verify Delivery Pincode Only available in selected citiesCurrent Location Please enter pincode Loginto see your saved addressesLogin More Cart')]</value>
+      <webElementGuid>d1f50e6f-5767-4afd-a31f-23df7aace839</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

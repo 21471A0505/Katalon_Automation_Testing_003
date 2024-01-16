@@ -1,0 +1,14 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Test Suite-1,Chrome 120.0.0.0,,,2023-12-31 19:37:22,2023-12-31 19:51:09,13m - 46.755s,FAILED
+,,,,,,,
+Test Cases/CURA_HEALTH/New Test Case-1,Chrome 120.0.0.0,,,2023-12-31 19:42:30,2023-12-31 19:44:10,1m - 39.892s,FAILED
+"openBrowser("""")",Chrome 120.0.0.0,,,2023-12-31 19:42:30,2023-12-31 19:42:31,0.802s,PASSED
+"navigateToUrl(""https://www.flipkart.com/"")",Chrome 120.0.0.0,,,2023-12-31 19:42:31,2023-12-31 19:42:32,1.488s,PASSED
+"setText(findTestObject(""Object Repository/Page_Online Shopping Site for Mobiles, Elec_b3f752/input__18u87m _3WuvDp""), ""720790930"")",Chrome 120.0.0.0,,,2023-12-31 19:42:32,2023-12-31 19:43:35,1m - 2.784s,PASSED
+"click(findTestObject(""Object Repository/Page_Online Shopping Site for Mobiles, Elec_b3f752/button_Request OTP""))",Chrome 120.0.0.0,,,2023-12-31 19:43:35,2023-12-31 19:44:10,34.792s,FAILED
+,,,,,,,
+Test Cases/CURA_HEALTH/New Test Case-1,Chrome 120.0.0.0,,,2023-12-31 19:49:29,2023-12-31 19:51:09,1m - 39.784s,FAILED
+"openBrowser("""")",Chrome 120.0.0.0,,,2023-12-31 19:49:29,2023-12-31 19:49:30,0.793s,PASSED
+"navigateToUrl(""https://www.flipkart.com/"")",Chrome 120.0.0.0,,,2023-12-31 19:49:30,2023-12-31 19:49:32,1.546s,PASSED
+"setText(findTestObject(""Object Repository/Page_Online Shopping Site for Mobiles, Elec_b3f752/input__18u87m _3WuvDp""), ""720790930"")",Chrome 120.0.0.0,,,2023-12-31 19:49:32,2023-12-31 19:50:35,1m - 2.931s,PASSED
+"click(findTestObject(""Object Repository/Page_Online Shopping Site for Mobiles, Elec_b3f752/button_Request OTP""))",Chrome 120.0.0.0,,,2023-12-31 19:50:35,2023-12-31 19:51:09,34.504s,FAILED
