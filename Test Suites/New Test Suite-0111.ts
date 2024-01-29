@@ -113,7 +113,7 @@
       <guid>c398f50e-32ec-4037-a92a-2262556d799a</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/CURA_HEALTH/New Test Case-27</testCaseId>
+      <testCaseId>Test Cases/Amazon_record/New Test Case-27</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
@@ -127,7 +127,7 @@
       <guid>8b2841e2-257e-4d81-8d6e-91bb5bf3b2e0</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/CURA_HEALTH/New Test Case-28</testCaseId>
+      <testCaseId>Test Cases/Amazon_record/New Test Case-28</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>

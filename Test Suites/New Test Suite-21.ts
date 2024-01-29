@@ -57,21 +57,21 @@
       <guid>a7b217cf-e308-44d3-b0f1-1fc65e195923</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/CURA_HEALTH/New Test Case-5</testCaseId>
+      <testCaseId>Test Cases/Amazon_record/New Test Case-5</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
       <guid>75d18aeb-40d4-480e-b08d-b4012f4200aa</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/CURA_HEALTH/New Test Case-6</testCaseId>
+      <testCaseId>Test Cases/Amazon_record/New Test Case-6</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
       <guid>6182ae05-0c00-4fc1-8ab1-bc0172ca5369</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/CURA_HEALTH/New Test Case-7</testCaseId>
+      <testCaseId>Test Cases/Amazon_record/New Test Case-7</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
